@@ -38,7 +38,7 @@ const Nav = () => {
 							}`}
 							aria-current="page"
 						>
-							MERNCAMP
+							JOBHUNTER
 						</a>
 					</Link>
 
